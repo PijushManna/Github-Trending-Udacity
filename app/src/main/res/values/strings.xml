@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Trending</string>
+    <string name="search">Search</string>
+    <string name="search_url">Enter a search query and your URL will show up here.</string>
+</resources>
